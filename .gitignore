@@ -219,4 +219,8 @@ __marimo__/
 
 # Editor and Notebook Temporary Files
 .virtual_documents/
+<<<<<<< HEAD
 .ipynb_checkpoints/
+=======
+.ipynb_checkpoints/
+>>>>>>> 8c83a82fd70cf95d295ae208572a4076e4fc814c
