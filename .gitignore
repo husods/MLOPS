@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Editor and Notebook Temporary Files
+.virtual_documents/
+.ipynb_checkpoints/
